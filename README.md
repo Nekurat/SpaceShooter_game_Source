@@ -30,13 +30,12 @@ As a beginner I'm learning C# and Unity while also putting my experience with ga
 
   **Clone the repository:**
     ```bash
-    git clone [https://github.com/Nekurat/SpaceShooter_game_Source.git](https://github.com/Nekurat/SpaceShooter_game_Source)
+    git clone [https://github.com/Nekurat/SpaceShooter_game_Source.git](https://github.com/Nekurat/SpaceShooter_game_Source.git)
     cd SpaceShooter-Unity-Source
     ```
 
 ## 📞 Contact
 
-* **Your Name:** [Sergiu Banu]
-* **LinkedIn:** [[Link to your LinkedIn Profile](https://www.linkedin.com/in/sergiu-banu-0a79a9245)]
+ [LinkedIn](https://www.linkedin.com/in/sergiu-banu-0a79a9245)]
 * **Email:** [smnr.sergiu@gmail.com]
     
