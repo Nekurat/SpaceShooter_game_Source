@@ -30,6 +30,7 @@ As a beginner, I'm learning C# and Unity while also putting my experience with g
 
 ## 📞 Contact
 
- [LinkedIn](https://www.linkedin.com/in/sergiu-banu-0a79a9245)
+ [[LinkedIn](https://www.linkedin.com/in/sergiu-banu-0a79a9245)]
+ 
  **Email:** smnr.sergiu@gmail.com
     
