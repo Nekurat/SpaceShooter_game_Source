@@ -7,7 +7,7 @@
 
 ## 🎮 About the Project
 This is a 2D space shooter game developed in Unity as part of "the-complete-unity-c-game-developer-bootcamp" by DevGameHQ.
-As a beginner I'm learning C# and Unity while also putting my experience with gaming to good use by implementing my own behavior and design to the project. 
+As a beginner, I'm learning C# and Unity while also putting my experience with gaming to good use by implementing my own behavior and design to the project. 
 
 ### My personal changes and implementations:
 - Slight differences in the way the code is implemented.
@@ -27,12 +27,6 @@ As a beginner I'm learning C# and Unity while also putting my experience with ga
 * Unity Hub
 * Unity Editor 2019.3.0a4
 * Git and Git LFS installed on your system.
-
-  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/Nekurat/SpaceShooter_game_Source.git](https://github.com/Nekurat/SpaceShooter_game_Source.git)
-    cd SpaceShooter-Unity-Source
-    ```
 
 ## 📞 Contact
 
