@@ -20,8 +20,6 @@ As a beginner, I'm learning C# and Unity while also putting my experience with g
 - **Added** High Score and New High Score elements at the end of the session.
 - **Added** SFX when the player is hit.
 
-### Installation
-
 ### Prerequisites
 
 * Unity Hub
