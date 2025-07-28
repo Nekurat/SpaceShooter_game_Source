@@ -26,6 +26,8 @@ As a beginner, I'm learning C# and Unity while also putting my experience with g
 * Unity Editor 2019.3.0a4
 * Git and Git LFS installed on your system.
 
+❗**This project is not for commercial use!** ❗ 
+
 ## 📞 Contact
 
  [[LinkedIn](https://www.linkedin.com/in/sergiu-banu-0a79a9245)]
